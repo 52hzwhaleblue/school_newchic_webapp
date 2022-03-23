@@ -1,0 +1,3 @@
+var productID;
+
+var productSKU;
